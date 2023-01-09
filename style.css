@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(184, 181, 181);
+    color: white;
+    
+   
+    
+}
+.square{
+background-color: black;
+border-color: black;
+border-radius: 20px 20px 20px 20px;
+height: 30vh;
+width: 950px;
+text-align: right;
+padding: 20px;
+margin: left 25vh; 
+margin-top: 60px;
+text-transform: uppercase;
+}
+.square2{
+    background-color: black;
+    border-color: black;
+    height: 30vh;
+    width: 950px;
+    padding: 20px;
+    margin-left: 25vh;
+    text-transform: lowercase;
+    overflow: scroll;
+}
